@@ -1,9 +1,3 @@
-.divcolor1{
-    background: #002233;
-}
-.divcolor2{
-    background: #005580;
-}
 .text{
     color:white;
 }
@@ -23,6 +17,18 @@ p{
 .border{
     border-radius: 15px 15px 15px 15px;
 }
+
+  .box {
+    border-radius: 15px 15px 15px 15px;
+         background: #002233;
+        border-color:#1ab2ff;
+        width: 500px;
+         margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 100px;
+        padding: 5px 15px 5px 15px;
+      }
 .btn{
         background-color:#1ab2ff;
         color: white;
@@ -30,6 +36,9 @@ p{
         margin-top: 10px;
         margin-left: 10px;
         margin-right: 10px;
-        margin-bottom: 100px;
+        margin-bottom: 20px;
         padding: 5px 15px 5px 15px;
+      }
+      .btn1{
+
       }
