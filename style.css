@@ -1,0 +1,25 @@
+.divcolor1{
+    background: #002233;
+}
+.divcolor2{
+    background: #005580;
+}
+.text{
+    color:white;
+}
+.text1{
+    color:grey;
+}
+.text2{
+    color: #1ab2ff;
+}
+.font{
+    font-size: 12px;
+    color: #1ab2ff;
+}
+p{
+     color:grey;
+}
+.border{
+    border-radius: 15px 15px 15px 15px;
+}
